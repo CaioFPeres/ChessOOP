@@ -1,6 +1,4 @@
-# XadrezPOO
-Jogo de Xadrez em Java, totalmente orientado a objetos.
+# ChessOOP
+Chess game made in Java, object oriented.
 
-Chess game in java; object oriented.
-
-Leia RelatorioXadrez.docx.
+More info about the whole classes in RelatorioXadrez.docx (in portuguese).
